@@ -1,7 +1,8 @@
-def addition(num1, num2)
-
+def addition(num1= 5, num2 = 4)
+  status= #{num1}+#{num2}
+  puts status
 end
-
+  
 def subtraction(num1, num2)
 
 end
