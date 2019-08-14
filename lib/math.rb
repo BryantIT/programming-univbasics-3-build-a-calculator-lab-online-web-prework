@@ -1,4 +1,4 @@
-def addition(num1, num2)
+def addition(5, num2)
   status= #{num1}+#{num2}
   puts status
 end
