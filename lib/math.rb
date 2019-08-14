@@ -1,5 +1,5 @@
-def addition(5, num2)
-  status= #{num1}+#{num2}
+def addition(5, 4)
+  status= 5+4
   puts status
 end
   
