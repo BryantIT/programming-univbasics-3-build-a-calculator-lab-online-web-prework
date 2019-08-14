@@ -1,6 +1,6 @@
-def addition(5, 4)
-  status= 5+4
-  puts status
+def addition(num1, num2)
+  
+puts status
 end
   
 def subtraction(num1, num2)
